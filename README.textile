@@ -26,7 +26,7 @@ Optionally it can store layout of your input. So when you enter insert mode it r
 
 Imagine, you are editing source code in Vim. In some moment you are digressing, for example, to write in "Twitter":http://twitter.com/. When you will be back to Vim, KLS restores keyboard layout automaticly. It is incredibly handy.
 
-And each tab has it's own keyboard layout.
+And each tab has its own keyboard layout.
 
 h3. Default keyboard layout
 
